@@ -1,7 +1,9 @@
 reciepe name: Butter chicken
-Ingrediants
+Ingredients
 
 Chicken:1kg
 Chilly powder:100gm
 Pepper:50gm
 Salt:2 tablespoon
+Butter:4 tablespoon
+Curd:100gm
